@@ -1,0 +1,1 @@
+This is a Streamlit Web Appication that is intergrated with a trained machine learning model whose goal is to visualize the trained model work in a simple, interactive dashboard that allows users to input housing features and see predicted house prices.
